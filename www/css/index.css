@@ -45,6 +45,12 @@ body {
     width:100%;
 }
 
+button{
+	height:200px;
+	width:200px;
+	float:left;
+}
+
 /* Portrait layout (default) */
 .app {
     background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
